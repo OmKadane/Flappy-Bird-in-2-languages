@@ -92,8 +92,6 @@ cd Flappy-Bird-in-2-languages
 
 ---
 
-Made with ❤️ by Om Kadane
-
 ## 🙌 Contribute
 
 Want to add a new theme, music, or feature?  
