@@ -28,7 +28,7 @@ Get the desktop `.exe` version of the game:
 
 | Python (Desktop)                          | JavaScript (Browser)                          |
 |------------------------------------------|-----------------------------------------------|
-| ![Python Demo]![Flappy-Python-Preview]() | ![JS Demo![Flappy-JS-Preview]()
+| ![Python Demo]![Flappy-Python-Preview](Flappy-Python-Preview.gif) | ![JS Demo![Flappy-JS-Preview](Flappy-JS-Preview.gif)
 ]            |
 
 ---
