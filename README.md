@@ -15,7 +15,7 @@ Play the JavaScript version instantly on your browser:
 
 Get the desktop `.exe` version of the game:
 
-👉 [Download main.exe (PyGame Version)]()
+👉 [Download main.exe (PyGame Version)](https://github.com/OmKadane/Flappy-Bird-in-2-languages/releases/download/v1.0/main.exe)
 
 > 📦 Built using PyGame & PyInstaller
 
