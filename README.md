@@ -97,8 +97,6 @@ See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-```
-https://img.shields.io/pypi/pyversions/pygame
-https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
+![Python](https://img.shields.io/badge/made%20with-Python-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/HTML%2FJS-Web%20Game-yellow?logo=javascript)
+![MIT License](https://img.shields.io/github/license/OmKadane/Flappy-Bird-in-2-languages)
