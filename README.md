@@ -51,5 +51,5 @@ Get the desktop `.exe` version of the game:
 
 | Version      | Control     |
 |--------------|-------------|
-| Python (exe) | `SPACE` or `Click` – Jump <br> `ESC` or `Close` – Exit |
+| Python (exe) | `SPACE` or `Click` – Jump <br> `Close` – Exit |
 | JS (Web)     | `SPACE` or `Tap (Mobile)` – Jump <br> `Close` - Exit|
