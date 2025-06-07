@@ -85,8 +85,19 @@ cd Flappy-Bird-in-2-languages
 ✍️ **Om Kadane**
 🧠 Python Programmer | 🎯 Aspiring Full Stack Python Dev
 
+## 📫 Contact Me
+
 🔗 [LinkedIn](https://www.linkedin.com/in/omkadanedev)
 📧 Email: [omkadane5@gmail.com](mailto:omkadane5@gmail.com)
+
+---
+
+> Made with ❤️ by Om Kadane
+
+## 🙌 Contribute
+
+Want to add a new theme, music, or feature?  
+Feel free to fork the repo, improve it, and raise a PR!
 
 ---
 
