@@ -8,8 +8,7 @@ A fun, addictive Flappy Bird-style game recreated in **Python (PyGame)** and **J
 
 Play the JavaScript version instantly on your browser:
 
-👉 [Play Flappy JS](https://flappy-javascript.netlify.app/)
-
+👉 [Play Flappy JS](https://flappy-javascript.netlify.app/) (PC & Mobile version)
 ---
 
 ## 💾 Download Windows Game (Python Build)
