@@ -30,6 +30,8 @@ Get the desktop `.exe` version of the game:
 |------------------------------------------|-----------------------------------------------|
 | Python Demo![Flappy-Python-Preview](Flappy-Python-Preview.gif) | JS Demo![Flappy-JS-Preview](Flappy-JS-Preview.gif) |
 
+*Note: This GIF was converted from a ScreenPal video, so the outro branding may be visible.*
+
 ---
 
 ## 🛠 Built With
