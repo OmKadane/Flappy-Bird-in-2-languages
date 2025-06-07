@@ -1,9 +1,7 @@
 import pygame, sys, random, math
 import os
 
-# Function to resolve paths for bundled assets (PyInstaller compatibility)
 def resource_path(relative_path):
-    """Get the absolute path to a resource, works for dev and PyInstaller."""
     if hasattr(sys, '_MEIPASS'):
         return os.path.join(sys._MEIPASS, relative_path)
     else:
