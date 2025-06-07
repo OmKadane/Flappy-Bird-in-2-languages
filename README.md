@@ -96,3 +96,8 @@ This project is licensed under the **MIT License**.
 See the [LICENSE](LICENSE) file for more details.
 
 ---
+
+https://img.shields.io/pypi/pyversions/pygame
+https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
