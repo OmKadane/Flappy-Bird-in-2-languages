@@ -92,7 +92,7 @@ cd Flappy-Bird-in-2-languages
 
 ---
 
-> Made with ❤️ by Om Kadane
+Made with ❤️ by Om Kadane
 
 ## 🙌 Contribute
 
