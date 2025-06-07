@@ -67,8 +67,6 @@ Or play it live: [https://flappy-javascript.netlify.app](https://flappy-javascri
 git clone https://github.com/OmKadane/Flappy-Bird-in-2-languages.git
 cd Flappy-Bird-in-2-languages
 
----
-
 ```
 ## 💡 Future Scope
 
