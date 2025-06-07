@@ -69,6 +69,7 @@ cd Flappy-Bird-in-2-languages
 
 ---
 
+```
 ## 💡 Future Scope
 
 ✅ Sound Effects and Background Music
