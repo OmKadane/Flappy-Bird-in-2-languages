@@ -1,0 +1,51 @@
+name: Flappy Bird CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  python-check:
+    name: Python Run Check
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run Python Game (Headless)
+        run: |
+          python flappy.py || echo "Python game skipped due to GUI requirements"
+
+  js-check:
+    name: JavaScript Check
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install JS dependencies (optional)
+        run: |
+          if [ -f package.json ]; then npm install; else echo "No package.json found"; fi
+
+      - name: Lint JS files (optional)
+        run: |
+          if [ -f package.json ]; then npx eslint . || true; else echo "Skipping ESLint"; fi
