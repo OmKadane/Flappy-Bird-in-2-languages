@@ -1,5 +1,9 @@
 # 🐦 Flappy Bird in 2 Languages
 
+![Python](https://img.shields.io/badge/made%20with-Python-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/HTML%2FJS-Web%20Game-yellow?logo=javascript)
+![MIT License](https://img.shields.io/github/license/OmKadane/Flappy-Bird-in-2-languages)
+
 A fun, addictive Flappy Bird-style game recreated in **Python (PyGame)** and **JavaScript (HTML/CSS/JS)** — choose your flavor and start flapping! 🎮
 
 ---
@@ -105,9 +109,3 @@ Feel free to fork the repo, improve it, and raise a PR!
 
 This project is licensed under the **MIT License**.
 See the [LICENSE](LICENSE) file for more details.
-
----
-
-![Python](https://img.shields.io/badge/made%20with-Python-blue?logo=python)
-![JavaScript](https://img.shields.io/badge/HTML%2FJS-Web%20Game-yellow?logo=javascript)
-![MIT License](https://img.shields.io/github/license/OmKadane/Flappy-Bird-in-2-languages)
